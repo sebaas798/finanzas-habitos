@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0b1120"/>
+  <rect x="44" y="44" width="424" height="424" rx="72" fill="#131f35"/>
+  <rect x="80" y="220" width="352" height="196" rx="20" fill="#1e2f4a"/>
+  <rect x="80" y="180" width="352" height="56" rx="14" fill="#4f8ef7" opacity=".9"/>
+  <text x="256" y="224" font-family="system-ui,sans-serif" font-size="36" font-weight="800" fill="white" text-anchor="middle">FINANZAS</text>
+  <text x="148" y="318" font-family="system-ui,sans-serif" font-size="28" font-weight="700" fill="#22d47a" text-anchor="middle">+2.400</text>
+  <text x="364" y="318" font-family="system-ui,sans-serif" font-size="28" font-weight="700" fill="#f05252" text-anchor="middle">-1.100</text>
+  <text x="256" y="390" font-family="system-ui,sans-serif" font-size="22" fill="#7a90b0" text-anchor="middle">Balance: +1.300</text>
+  <circle cx="256" cy="116" r="28" fill="#4f8ef7" opacity=".2"/>
+  <text x="256" y="126" font-size="30" text-anchor="middle">💰</text>
+</svg>

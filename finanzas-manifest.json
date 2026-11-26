@@ -1,0 +1,15 @@
+{
+  "name": "Finanzas & Hábitos",
+  "short_name": "Finanzas",
+  "description": "Dashboard personal de finanzas, hábitos y objetivos",
+  "start_url": "./finanzas-tracker.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1120",
+  "theme_color": "#4f8ef7",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "categories": ["finance", "productivity"],
+  "lang": "es"
+}
